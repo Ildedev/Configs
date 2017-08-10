@@ -1,2 +1,2 @@
 # Configs
-Config files for editors and other stuff.
+My config files for various programs.
